@@ -1,0 +1,8 @@
+properities 可有下列3種檔格式：
+
+(key=value) ==> Q=Please enter a number: 
+
+(key:value) ==> Q:Please enter a number: 
+
+(key value) ==> Q Please enter a number: 
+ 

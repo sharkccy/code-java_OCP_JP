@@ -1,0 +1,2 @@
+若是要連線到另一台電腦的mysl，請打開資料庫電腦的mysql workbench
+Users and Privileges \ 點選 root，右邊的 Limit to Hosts Matching 改成：%

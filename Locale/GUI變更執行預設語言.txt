@@ -1,0 +1,5 @@
+在專案按右鍵 \ properties \ Run \ 在右邊的 VM Options 填入：
+
+-Duser.language=ja -Duser.country=JP
+
+其中ja、JP 請自行調整成選用的語系與國家
